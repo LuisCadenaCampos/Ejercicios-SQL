@@ -49,7 +49,7 @@ END;
 
 EXEC SP_Ubicacion_Alumnos 1,'Fernando','Mendieta','Zavala',8.9
 EXEC SP_Ubicacion_Alumnos 2,'Roberto','Mendez','Chavez',6.5
-EXEC SP_Ubicacion_Alumnos 3,'Jimena','Gómez','Gómez',7.6
+EXEC SP_Ubicacion_Alumnos 3,'Jimena','GÃ³mez','GÃ³mez',7.6
 EXEC SP_Ubicacion_Alumnos 4,'David','Hernandez','Campos',4.0
 
 SELECT * FROM #ALUMNOS 
